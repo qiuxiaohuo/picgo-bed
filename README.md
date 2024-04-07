@@ -1,2 +1,2 @@
 # picgo-bed
-update figures of markdown notes
+Upload figures of markdown notes on Internet, which avoid storing figures locally.
